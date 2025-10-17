@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Cuestionario: Los Efectos del Uso de la TI</title>
+ <a href="index.html">Click aqui para volver al inicio</a>
 </head>
 <body>
 
